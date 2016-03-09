@@ -1,0 +1,11 @@
+.nn{
+
+	border: black dashed 1px;
+	background-color:pink;
+	float:left;
+}
+
+#container{
+	min-width:800px;
+	min-height:800px;
+}
